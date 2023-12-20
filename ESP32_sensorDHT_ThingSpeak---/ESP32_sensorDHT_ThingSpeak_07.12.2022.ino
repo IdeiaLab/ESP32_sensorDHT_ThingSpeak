@@ -11,8 +11,8 @@ DHT dht(pino_dht, DHT11); // define o pino e o tipo de DHT
 //fim do trecho DHT11-----------------------------------------------------------------------
 
 // variaveis para alocar senha e nome da rede
-const char* nome_da_rede = "GEFIE";
-const char* senha = "@F4bul0s0@$";
+const char* nome_da_rede = "*****";
+const char* senha = "*****";
 
 // tipo de interação com Wifi
 WiFiClient  client;
